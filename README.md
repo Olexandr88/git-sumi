@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center">л
     <a href="https://sumi.rs">
         <img src="https://raw.githubusercontent.com/welpo/git-sumi/main/website/static/img/logo.png" width="300" alt="git-sumi logo: a lantern held on a bamboo stick over the sea">
     </a>
